@@ -1,0 +1,16 @@
+{
+  "name": "import-problem",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "memoize-fs": "^3.0.0",
+    "typescript": "^5.3.3"
+  }
+}
